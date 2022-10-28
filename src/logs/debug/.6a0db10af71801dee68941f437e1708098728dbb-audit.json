@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/paula/movie-project/src/logs/debug/.6a0db10af71801dee68941f437e1708098728dbb-audit.json",
+    "files": [
+        {
+            "date": 1666774943818,
+            "name": "/home/paula/movie-project/src/logs/debug/2022-10-26.log",
+            "hash": "e98c35b9cb09e9b63147e49641f67816e9e0d4bb23c11d44962806eb735f17b4"
+        }
+    ],
+    "hashType": "sha256"
+}

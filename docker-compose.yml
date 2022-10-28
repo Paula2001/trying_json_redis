@@ -1,0 +1,41 @@
+version: '3.7'
+
+services:
+  server:
+    build:
+      context: ./
+      target: development-build-stage
+      dockerfile: Dockerfile
+    container_name: server
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./:/app
+      - /app/node_modules
+    restart: 'unless-stopped'
+    networks:
+      - backend
+    links:
+      - cache
+    depends_on:
+      - cache
+
+  cache:
+    image: redis/redis-stack:latest
+    container_name: cache
+    restart: always
+    ports:
+      - '6379:6379'
+    command: redis-server  --save 20 1 --loglevel warning --requirepass password --loadmodule /opt/redis-stack/lib/redisearch.so --loadmodule /opt/redis-stack/lib/rejson.so --loadmodule /opt/redis-stack/lib/redisgraph.so --loadmodule /opt/redis-stack/lib/redistimeseries.so --loadmodule /opt/redis-stack/lib/redisbloom.so
+    volumes:
+      - cache:/data
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  cache:
+    driver: local

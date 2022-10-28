@@ -1,0 +1,786 @@
+2022-10-27 10:46:52 info: =================================
+2022-10-27 10:46:52 info: ======= ENV: development =======
+2022-10-27 10:46:52 info: 🚀 App listening on the port 3000
+2022-10-27 10:46:52 info: =================================
+2022-10-27 10:46:52 info: redis is on
+2022-10-27 10:47:46 info: {"total":0,"documents":[]}
+2022-10-27 10:47:46 info: [0mGET / [32m200[0m 11.395 ms - 2[0m
+2022-10-27 10:48:07 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 10:48:07 info: [0mGET / [31m500[0m 4.545 ms - 34[0m
+2022-10-27 10:48:22 info: =================================
+2022-10-27 10:48:22 info: ======= ENV: development =======
+2022-10-27 10:48:22 info: 🚀 App listening on the port 3000
+2022-10-27 10:48:22 info: =================================
+2022-10-27 10:48:22 info: redis is on
+2022-10-27 10:48:24 info: {"total":0,"documents":[]}
+2022-10-27 10:48:24 info: [0mGET / [32m200[0m 10.753 ms - 2[0m
+2022-10-27 10:48:26 info: {"total":0,"documents":[]}
+2022-10-27 10:48:26 info: [0mGET / [32m200[0m 9.171 ms - 2[0m
+2022-10-27 11:02:52 info: {"total":0,"documents":[]}
+2022-10-27 11:02:52 info: [0mGET / [32m200[0m 2.063 ms - 2[0m
+2022-10-27 11:03:08 info: =================================
+2022-10-27 11:03:08 info: ======= ENV: development =======
+2022-10-27 11:03:08 info: 🚀 App listening on the port 3000
+2022-10-27 11:03:08 info: =================================
+2022-10-27 11:03:08 info: redis is on
+2022-10-27 11:03:10 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 9 near species
+2022-10-27 11:03:10 info: [0mGET / [31m500[0m 11.557 ms - 51[0m
+2022-10-27 11:03:21 info: =================================
+2022-10-27 11:03:21 info: ======= ENV: development =======
+2022-10-27 11:03:21 info: 🚀 App listening on the port 3000
+2022-10-27 11:03:21 info: =================================
+2022-10-27 11:03:21 info: redis is on
+2022-10-27 11:03:23 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 10 near species
+2022-10-27 11:03:23 info: [0mGET / [31m500[0m 6.625 ms - 52[0m
+2022-10-27 11:03:29 info: =================================
+2022-10-27 11:03:29 info: ======= ENV: development =======
+2022-10-27 11:03:29 info: 🚀 App listening on the port 3000
+2022-10-27 11:03:29 info: =================================
+2022-10-27 11:03:29 info: redis is on
+2022-10-27 11:03:30 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 9 near species
+2022-10-27 11:03:30 info: [0mGET / [31m500[0m 8.506 ms - 51[0m
+2022-10-27 11:03:35 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 9 near species
+2022-10-27 11:03:35 info: [0mGET / [31m500[0m 2.189 ms - 51[0m
+2022-10-27 11:03:41 info: =================================
+2022-10-27 11:03:41 info: ======= ENV: development =======
+2022-10-27 11:03:41 info: 🚀 App listening on the port 3000
+2022-10-27 11:03:41 info: =================================
+2022-10-27 11:03:41 info: redis is on
+2022-10-27 11:03:43 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 1 near species
+2022-10-27 11:03:43 info: [0mGET / [31m500[0m 4.995 ms - 51[0m
+2022-10-27 11:03:47 info: =================================
+2022-10-27 11:03:47 info: ======= ENV: development =======
+2022-10-27 11:03:47 info: 🚀 App listening on the port 3000
+2022-10-27 11:03:47 info: =================================
+2022-10-27 11:03:47 info: redis is on
+2022-10-27 11:03:49 info: {"total":0,"documents":[]}
+2022-10-27 11:03:49 info: [0mGET / [32m200[0m 10.978 ms - 2[0m
+2022-10-27 11:04:03 info: =================================
+2022-10-27 11:04:03 info: ======= ENV: development =======
+2022-10-27 11:04:03 info: 🚀 App listening on the port 3000
+2022-10-27 11:04:03 info: =================================
+2022-10-27 11:04:03 info: redis is on
+2022-10-27 11:04:04 info: {"total":0,"documents":[]}
+2022-10-27 11:04:04 info: [0mGET / [32m200[0m 5.732 ms - 2[0m
+2022-10-27 11:04:05 info: {"total":0,"documents":[]}
+2022-10-27 11:04:05 info: [0mGET / [32m200[0m 2.028 ms - 2[0m
+2022-10-27 11:07:16 info: {"total":0,"documents":[]}
+2022-10-27 11:07:16 info: [0mGET / [32m200[0m 2.131 ms - 2[0m
+2022-10-27 11:07:18 info: {"total":0,"documents":[]}
+2022-10-27 11:07:18 info: [0mGET / [32m200[0m 1.608 ms - 2[0m
+2022-10-27 11:07:21 info: {"total":0,"documents":[]}
+2022-10-27 11:07:21 info: [0mGET / [32m200[0m 3.727 ms - 2[0m
+2022-10-27 11:13:59 info: {"total":0,"documents":[]}
+2022-10-27 11:13:59 info: [0mGET / [32m200[0m 1.313 ms - 2[0m
+2022-10-27 11:14:07 info: {"total":0,"documents":[]}
+2022-10-27 11:14:07 info: [0mGET / [32m200[0m 1.198 ms - 2[0m
+2022-10-27 11:15:26 info: {"total":0,"documents":[]}
+2022-10-27 11:15:26 info: [0mGET / [32m200[0m 1.257 ms - 2[0m
+2022-10-27 11:16:13 info: {"total":0,"documents":[]}
+2022-10-27 11:16:13 info: [0mGET / [32m200[0m 1.578 ms - 2[0m
+2022-10-27 11:16:22 info: =================================
+2022-10-27 11:16:22 info: ======= ENV: development =======
+2022-10-27 11:16:22 info: 🚀 App listening on the port 3000
+2022-10-27 11:16:22 info: =================================
+2022-10-27 11:16:22 info: redis is on
+2022-10-27 11:16:23 info: {"total":0,"documents":[]}
+2022-10-27 11:16:23 info: [0mGET / [32m200[0m 9.702 ms - 2[0m
+2022-10-27 11:17:39 info: =================================
+2022-10-27 11:17:39 info: ======= ENV: development =======
+2022-10-27 11:17:39 info: 🚀 App listening on the port 3000
+2022-10-27 11:17:39 info: =================================
+2022-10-27 11:17:40 info: redis is on
+2022-10-27 11:17:42 info: {"total":0,"documents":[]}
+2022-10-27 11:17:42 info: [0mGET / [32m200[0m 6.159 ms - 2[0m
+2022-10-27 11:17:44 info: {"total":0,"documents":[]}
+2022-10-27 11:17:44 info: [0mGET / [32m200[0m 1.376 ms - 2[0m
+2022-10-27 11:17:51 info: =================================
+2022-10-27 11:17:51 info: ======= ENV: development =======
+2022-10-27 11:17:51 info: 🚀 App listening on the port 3000
+2022-10-27 11:17:51 info: =================================
+2022-10-27 11:17:51 info: redis is on
+2022-10-27 11:17:53 info: {"total":0,"documents":[]}
+2022-10-27 11:17:53 info: [0mGET / [32m200[0m 4.735 ms - 2[0m
+2022-10-27 11:21:38 info: =================================
+2022-10-27 11:21:38 info: ======= ENV: development =======
+2022-10-27 11:21:38 info: 🚀 App listening on the port 3000
+2022-10-27 11:21:38 info: =================================
+2022-10-27 11:21:38 info: redis is on
+2022-10-27 11:21:50 info: =================================
+2022-10-27 11:21:50 info: ======= ENV: development =======
+2022-10-27 11:21:50 info: 🚀 App listening on the port 3000
+2022-10-27 11:21:50 info: =================================
+2022-10-27 11:21:50 info: redis is on
+2022-10-27 11:21:51 info: {"total":0,"documents":[]}
+2022-10-27 11:21:51 info: [0mGET / [32m200[0m 6.228 ms - 2[0m
+2022-10-27 11:21:53 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:21:53 info: [0mGET / [31m500[0m 1.967 ms - 34[0m
+2022-10-27 11:22:02 info: =================================
+2022-10-27 11:22:02 info: ======= ENV: development =======
+2022-10-27 11:22:02 info: 🚀 App listening on the port 3000
+2022-10-27 11:22:02 info: =================================
+2022-10-27 11:22:02 info: redis is on
+2022-10-27 11:22:07 info: {"total":0,"documents":[]}
+2022-10-27 11:22:07 info: [0mGET / [32m200[0m 10.602 ms - 2[0m
+2022-10-27 11:22:38 info: =================================
+2022-10-27 11:22:38 info: ======= ENV: development =======
+2022-10-27 11:22:38 info: 🚀 App listening on the port 3000
+2022-10-27 11:22:38 info: =================================
+2022-10-27 11:22:38 info: redis is on
+2022-10-27 11:22:38 info: {"total":0,"documents":[]}
+2022-10-27 11:22:38 info: [0mGET / [32m200[0m 7.195 ms - 2[0m
+2022-10-27 11:22:40 info: {"total":0,"documents":[]}
+2022-10-27 11:22:40 info: [0mGET / [32m200[0m 1.858 ms - 2[0m
+2022-10-27 11:22:46 info: =================================
+2022-10-27 11:22:47 info: ======= ENV: development =======
+2022-10-27 11:22:47 info: 🚀 App listening on the port 3000
+2022-10-27 11:22:47 info: =================================
+2022-10-27 11:22:47 info: redis is on
+2022-10-27 11:22:47 info: {"total":0,"documents":[]}
+2022-10-27 11:22:47 info: [0mGET / [32m200[0m 34.102 ms - 2[0m
+2022-10-27 11:22:48 info: {"total":0,"documents":[]}
+2022-10-27 11:22:48 info: [0mGET / [32m200[0m 1.890 ms - 2[0m
+2022-10-27 11:24:03 info: =================================
+2022-10-27 11:24:03 info: ======= ENV: development =======
+2022-10-27 11:24:03 info: 🚀 App listening on the port 3000
+2022-10-27 11:24:03 info: =================================
+2022-10-27 11:24:03 info: redis is on
+2022-10-27 11:24:35 info: =================================
+2022-10-27 11:24:35 info: ======= ENV: development =======
+2022-10-27 11:24:35 info: 🚀 App listening on the port 3000
+2022-10-27 11:24:35 info: =================================
+2022-10-27 11:24:35 info: redis is on
+2022-10-27 11:24:36 info: {"total":0,"documents":[]}
+2022-10-27 11:24:36 info: [0mGET / [32m200[0m 8.683 ms - 2[0m
+2022-10-27 11:24:40 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:24:40 info: [0mGET / [31m500[0m 5.038 ms - 34[0m
+2022-10-27 11:24:51 info: =================================
+2022-10-27 11:24:51 info: ======= ENV: development =======
+2022-10-27 11:24:51 info: 🚀 App listening on the port 3000
+2022-10-27 11:24:51 info: =================================
+2022-10-27 11:24:51 info: redis is on
+2022-10-27 11:24:54 info: {"total":0,"documents":[]}
+2022-10-27 11:24:54 info: [0mGET / [32m200[0m 10.886 ms - 2[0m
+2022-10-27 11:25:08 info: =================================
+2022-10-27 11:25:08 info: ======= ENV: development =======
+2022-10-27 11:25:08 info: 🚀 App listening on the port 3000
+2022-10-27 11:25:08 info: =================================
+2022-10-27 11:25:08 info: redis is on
+2022-10-27 11:26:16 info: =================================
+2022-10-27 11:26:16 info: ======= ENV: development =======
+2022-10-27 11:26:16 info: 🚀 App listening on the port 3000
+2022-10-27 11:26:16 info: =================================
+2022-10-27 11:26:16 info: redis is on
+2022-10-27 11:26:31 info: =================================
+2022-10-27 11:26:31 info: ======= ENV: development =======
+2022-10-27 11:26:31 info: 🚀 App listening on the port 3000
+2022-10-27 11:26:31 info: =================================
+2022-10-27 11:26:31 info: redis is on
+2022-10-27 11:28:28 info: =================================
+2022-10-27 11:28:28 info: ======= ENV: development =======
+2022-10-27 11:28:28 info: 🚀 App listening on the port 3000
+2022-10-27 11:28:28 info: =================================
+2022-10-27 11:28:28 info: redis is on
+2022-10-27 11:29:04 info: =================================
+2022-10-27 11:29:04 info: ======= ENV: development =======
+2022-10-27 11:29:04 info: 🚀 App listening on the port 3000
+2022-10-27 11:29:04 info: =================================
+2022-10-27 11:29:04 info: redis is on
+2022-10-27 11:29:17 info: =================================
+2022-10-27 11:29:17 info: ======= ENV: development =======
+2022-10-27 11:29:17 info: 🚀 App listening on the port 3000
+2022-10-27 11:29:17 info: =================================
+2022-10-27 11:29:17 info: redis is on
+2022-10-27 11:29:32 info: =================================
+2022-10-27 11:29:32 info: ======= ENV: development =======
+2022-10-27 11:29:32 info: 🚀 App listening on the port 3000
+2022-10-27 11:29:32 info: =================================
+2022-10-27 11:29:32 info: redis is on
+2022-10-27 11:29:34 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:29:34 info: [0mGET / [31m500[0m 7.168 ms - 34[0m
+2022-10-27 11:29:55 info: =================================
+2022-10-27 11:29:55 info: ======= ENV: development =======
+2022-10-27 11:29:55 info: 🚀 App listening on the port 3000
+2022-10-27 11:29:55 info: =================================
+2022-10-27 11:29:55 info: redis is on
+2022-10-27 11:29:56 info: {"total":0,"documents":[]}
+2022-10-27 11:29:56 info: [0mGET / [32m200[0m 9.130 ms - 2[0m
+2022-10-27 11:29:58 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:29:58 info: [0mGET / [31m500[0m 4.760 ms - 34[0m
+2022-10-27 11:30:09 info: =================================
+2022-10-27 11:30:09 info: ======= ENV: development =======
+2022-10-27 11:30:09 info: 🚀 App listening on the port 3000
+2022-10-27 11:30:09 info: =================================
+2022-10-27 11:30:09 info: redis is on
+2022-10-27 11:30:19 info: {"total":0,"documents":[]}
+2022-10-27 11:30:19 info: [0mGET / [32m200[0m 10.596 ms - 2[0m
+2022-10-27 11:30:21 info: {"total":0,"documents":[]}
+2022-10-27 11:30:21 info: [0mGET / [32m200[0m 2.387 ms - 2[0m
+2022-10-27 11:32:33 info: {"total":0,"documents":[]}
+2022-10-27 11:32:33 info: [0mGET / [32m200[0m 1.949 ms - 2[0m
+2022-10-27 11:32:49 info: =================================
+2022-10-27 11:32:49 info: ======= ENV: development =======
+2022-10-27 11:32:49 info: 🚀 App listening on the port 3000
+2022-10-27 11:32:49 info: =================================
+2022-10-27 11:32:49 info: redis is on
+2022-10-27 11:32:49 info: {"total":0,"documents":[]}
+2022-10-27 11:32:50 info: [0mGET / [32m200[0m 7.052 ms - 2[0m
+2022-10-27 11:32:51 info: {"total":0,"documents":[]}
+2022-10-27 11:32:51 info: [0mGET / [32m200[0m 2.222 ms - 2[0m
+2022-10-27 11:33:22 info: =================================
+2022-10-27 11:33:22 info: ======= ENV: development =======
+2022-10-27 11:33:22 info: 🚀 App listening on the port 3000
+2022-10-27 11:33:22 info: =================================
+2022-10-27 11:33:22 info: redis is on
+2022-10-27 11:33:54 info: =================================
+2022-10-27 11:33:54 info: ======= ENV: development =======
+2022-10-27 11:33:54 info: 🚀 App listening on the port 3000
+2022-10-27 11:33:54 info: =================================
+2022-10-27 11:33:54 info: redis is on
+2022-10-27 11:34:38 info: =================================
+2022-10-27 11:34:38 info: ======= ENV: development =======
+2022-10-27 11:34:38 info: 🚀 App listening on the port 3000
+2022-10-27 11:34:38 info: =================================
+2022-10-27 11:34:38 info: redis is on
+2022-10-27 11:34:39 info: {"total":0,"documents":[]}
+2022-10-27 11:34:39 info: [0mGET / [32m200[0m 7.843 ms - 2[0m
+2022-10-27 11:34:41 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:34:41 info: [0mGET / [31m500[0m 3.975 ms - 34[0m
+2022-10-27 11:34:51 info: =================================
+2022-10-27 11:34:51 info: ======= ENV: development =======
+2022-10-27 11:34:51 info: 🚀 App listening on the port 3000
+2022-10-27 11:34:51 info: =================================
+2022-10-27 11:34:51 info: redis is on
+2022-10-27 11:34:53 info: {"total":0,"documents":[]}
+2022-10-27 11:34:53 info: [0mGET / [32m200[0m 5.444 ms - 2[0m
+2022-10-27 11:35:20 info: =================================
+2022-10-27 11:35:20 info: ======= ENV: development =======
+2022-10-27 11:35:20 info: 🚀 App listening on the port 3000
+2022-10-27 11:35:20 info: =================================
+2022-10-27 11:35:20 info: redis is on
+2022-10-27 11:35:29 info: =================================
+2022-10-27 11:35:29 info: ======= ENV: development =======
+2022-10-27 11:35:29 info: 🚀 App listening on the port 3000
+2022-10-27 11:35:29 info: =================================
+2022-10-27 11:35:29 info: redis is on
+2022-10-27 11:35:42 info: =================================
+2022-10-27 11:35:42 info: ======= ENV: development =======
+2022-10-27 11:35:42 info: 🚀 App listening on the port 3000
+2022-10-27 11:35:42 info: =================================
+2022-10-27 11:35:42 info: redis is on
+2022-10-27 11:36:10 info: =================================
+2022-10-27 11:36:10 info: ======= ENV: development =======
+2022-10-27 11:36:10 info: 🚀 App listening on the port 3000
+2022-10-27 11:36:10 info: =================================
+2022-10-27 11:36:10 info: redis is on
+2022-10-27 11:36:32 info: =================================
+2022-10-27 11:36:32 info: ======= ENV: development =======
+2022-10-27 11:36:32 info: 🚀 App listening on the port 3000
+2022-10-27 11:36:32 info: =================================
+2022-10-27 11:36:32 info: redis is on
+2022-10-27 11:36:36 info: =================================
+2022-10-27 11:36:36 info: ======= ENV: development =======
+2022-10-27 11:36:36 info: 🚀 App listening on the port 3000
+2022-10-27 11:36:36 info: =================================
+2022-10-27 11:36:36 info: redis is on
+2022-10-27 11:36:38 info: [0mGET / [32m200[0m 5.915 ms - 2[0m
+2022-10-27 11:36:41 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:36:41 info: [0mGET / [31m500[0m 5.248 ms - 34[0m
+2022-10-27 11:36:52 info: =================================
+2022-10-27 11:36:52 info: ======= ENV: development =======
+2022-10-27 11:36:52 info: 🚀 App listening on the port 3000
+2022-10-27 11:36:52 info: =================================
+2022-10-27 11:36:52 info: redis is on
+2022-10-27 11:36:53 info: [0mGET / [32m200[0m 5.782 ms - 2[0m
+2022-10-27 11:36:56 info: [0mGET / [32m200[0m 4.086 ms - 2[0m
+2022-10-27 11:36:57 info: [0mGET / [32m200[0m 1.400 ms - 2[0m
+2022-10-27 11:37:03 info: [0mGET / [32m200[0m 1.501 ms - 2[0m
+2022-10-27 11:37:16 info: =================================
+2022-10-27 11:37:16 info: ======= ENV: development =======
+2022-10-27 11:37:16 info: 🚀 App listening on the port 3000
+2022-10-27 11:37:16 info: =================================
+2022-10-27 11:37:16 info: redis is on
+2022-10-27 11:37:16 info: {
+  "total": 1,
+  "documents": [
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:37:16 info: [0mGET / [32m200[0m 9.887 ms - 2[0m
+2022-10-27 11:37:28 info: {
+  "total": 1,
+  "documents": [
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:37:28 info: [0mGET / [32m200[0m 5.314 ms - 2[0m
+2022-10-27 11:39:02 info: =================================
+2022-10-27 11:39:02 info: ======= ENV: development =======
+2022-10-27 11:39:02 info: 🚀 App listening on the port 3000
+2022-10-27 11:39:02 info: =================================
+2022-10-27 11:39:02 info: redis is on
+2022-10-27 11:39:03 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:39:03 info: [0mGET / [32m200[0m 5.839 ms - 2[0m
+2022-10-27 11:44:37 info: =================================
+2022-10-27 11:44:37 info: ======= ENV: development =======
+2022-10-27 11:44:37 info: 🚀 App listening on the port 3000
+2022-10-27 11:44:37 info: =================================
+2022-10-27 11:44:37 info: redis is on
+2022-10-27 11:44:50 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:44:50 info: {
+  "total": 0,
+  "documents": []
+}
+2022-10-27 11:44:50 info: [0mGET / [32m200[0m 7.534 ms - 2[0m
+2022-10-27 11:45:00 info: =================================
+2022-10-27 11:45:00 info: ======= ENV: development =======
+2022-10-27 11:45:00 info: 🚀 App listening on the port 3000
+2022-10-27 11:45:00 info: =================================
+2022-10-27 11:45:00 info: redis is on
+2022-10-27 11:45:02 info: =================================
+2022-10-27 11:45:02 info: ======= ENV: development =======
+2022-10-27 11:45:02 info: 🚀 App listening on the port 3000
+2022-10-27 11:45:02 info: =================================
+2022-10-27 11:45:02 info: redis is on
+2022-10-27 11:45:04 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:45:04 info: {
+  "total": 0,
+  "documents": []
+}
+2022-10-27 11:45:04 info: [0mGET / [32m200[0m 8.363 ms - 2[0m
+2022-10-27 11:45:50 info: =================================
+2022-10-27 11:45:50 info: ======= ENV: development =======
+2022-10-27 11:45:50 info: 🚀 App listening on the port 3000
+2022-10-27 11:45:50 info: =================================
+2022-10-27 11:45:50 info: redis is on
+2022-10-27 11:45:51 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:45:51 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 22 near gov
+2022-10-27 11:45:51 info: [0mGET / [31m500[0m 6.470 ms - 48[0m
+2022-10-27 11:45:52 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:45:52 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 22 near gov
+2022-10-27 11:45:52 info: [0mGET / [31m500[0m 7.838 ms - 48[0m
+2022-10-27 11:46:28 info: =================================
+2022-10-27 11:46:28 info: ======= ENV: development =======
+2022-10-27 11:46:28 info: 🚀 App listening on the port 3000
+2022-10-27 11:46:28 info: =================================
+2022-10-27 11:46:28 info: redis is on
+2022-10-27 11:46:35 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:46:35 info: {
+  "total": 0,
+  "documents": []
+}
+2022-10-27 11:46:35 info: [0mGET / [32m200[0m 6.651 ms - 2[0m
+2022-10-27 11:47:08 info: =================================
+2022-10-27 11:47:08 info: ======= ENV: development =======
+2022-10-27 11:47:08 info: 🚀 App listening on the port 3000
+2022-10-27 11:47:08 info: =================================
+2022-10-27 11:47:08 info: redis is on
+2022-10-27 11:47:11 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:47:11 info: {
+  "total": 1,
+  "documents": [
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:47:11 info: [0mGET / [32m200[0m 7.421 ms - 2[0m
+2022-10-27 11:55:05 info: =================================
+2022-10-27 11:55:05 info: ======= ENV: development =======
+2022-10-27 11:55:05 info: 🚀 App listening on the port 3000
+2022-10-27 11:55:05 info: =================================
+2022-10-27 11:55:05 info: redis is on
+2022-10-27 11:55:07 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:07 info: {
+  "total": 1,
+  "documents": [
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:07 info: [0mGET / [32m200[0m 6.925 ms - 2[0m
+2022-10-27 11:55:20 info: =================================
+2022-10-27 11:55:20 info: ======= ENV: development =======
+2022-10-27 11:55:20 info: 🚀 App listening on the port 3000
+2022-10-27 11:55:20 info: =================================
+2022-10-27 11:55:20 info: redis is on
+2022-10-27 11:55:21 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@bobst.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:21 info: {
+  "total": 1,
+  "documents": [
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:21 info: [0mGET / [32m200[0m 5.786 ms - 2[0m
+2022-10-27 11:55:26 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "alice@bobst.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:26 info: {
+  "total": 1,
+  "documents": [
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:26 info: [0mGET / [32m200[0m 6.901 ms - 2[0m
+2022-10-27 11:55:35 info: =================================
+2022-10-27 11:55:35 info: ======= ENV: development =======
+2022-10-27 11:55:35 info: 🚀 App listening on the port 3000
+2022-10-27 11:55:35 info: =================================
+2022-10-27 11:55:35 info: redis is on
+2022-10-27 11:55:36 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "bob@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:36 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "bob@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:36 info: [0mGET / [32m200[0m 8.869 ms - 2[0m
+2022-10-27 11:55:38 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "bob@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:38 info: {
+  "total": 2,
+  "documents": [
+    {
+      "id": "noderedis:users:1",
+      "value": {
+        "name": "Alice",
+        "age": 1,
+        "coins": 100,
+        "email": "bob@nonexist.com"
+      }
+    },
+    {
+      "id": "noderedis:users:2",
+      "value": {
+        "name": "Bob",
+        "age": 23,
+        "coins": 15,
+        "email": "bob@somewhere.gov"
+      }
+    }
+  ]
+}
+2022-10-27 11:55:38 info: [0mGET / [32m200[0m 2.255 ms - 2[0m

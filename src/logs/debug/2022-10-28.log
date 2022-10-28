@@ -1,0 +1,18 @@
+2022-10-28 06:46:34 info: =================================
+2022-10-28 06:46:34 info: ======= ENV: development =======
+2022-10-28 06:46:34 info: 🚀 App listening on the port 3000
+2022-10-28 06:46:34 info: =================================
+2022-10-28 06:46:39 error: error in redis connection !
+2022-10-28 06:46:39 error: Connection timeout
+2022-10-28 06:47:41 info: =================================
+2022-10-28 06:47:41 info: ======= ENV: development =======
+2022-10-28 06:47:41 info: 🚀 App listening on the port 3000
+2022-10-28 06:47:41 info: =================================
+2022-10-28 06:47:46 error: error in redis connection !
+2022-10-28 06:47:46 error: Connection timeout
+2022-10-28 07:04:59 info: =================================
+2022-10-28 07:04:59 info: ======= ENV: development =======
+2022-10-28 07:04:59 info: 🚀 App listening on the port 3000
+2022-10-28 07:04:59 info: =================================
+2022-10-28 07:05:05 error: error in redis connection !
+2022-10-28 07:05:05 error: Connection timeout

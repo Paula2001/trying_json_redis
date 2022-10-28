@@ -1,0 +1,14 @@
+2022-10-27 10:48:07 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:03:10 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 9 near species
+2022-10-27 11:03:23 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 10 near species
+2022-10-27 11:03:30 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 9 near species
+2022-10-27 11:03:35 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 9 near species
+2022-10-27 11:03:43 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 1 near species
+2022-10-27 11:21:53 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:24:40 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:29:34 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:29:58 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:34:41 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:36:41 error: [GET] / >> StatusCode:: 500, Message:: Index already exists
+2022-10-27 11:45:51 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 22 near gov
+2022-10-27 11:45:52 error: [GET] / >> StatusCode:: 500, Message:: Syntax error at offset 22 near gov
